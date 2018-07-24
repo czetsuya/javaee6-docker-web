@@ -17,7 +17,7 @@
 
 /*
 create table Member (
-	id int,
+	id bigint,
 	name varchar(100),
 	email varchar(100),
 	phone_number varchar(100)
